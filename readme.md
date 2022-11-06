@@ -1,6 +1,6 @@
 Prints look like this?
 
-placeholder for image
+<img src="./Images/cube_example.png" alt="Example Cube" style="zoom:20%;" />
 
 This tool aims to help diagnose the source of the issue. I'll leave the theory till the bottom and begin with a walkthrough.
 # Step By Step
@@ -14,7 +14,7 @@ Wide layer lines and tall layer heights are still recommended as per the origina
 
 3) Once printed, you should be able to see some woodgrain, as per Mihai's example photos. We are interested in the length of the repeat of this grain effect. The easiest place to measure, would be tip to tip of the grains, as pictured.
 
-placeholder for image
+<img src="./Images/measure_example.png" alt="Measure this" style="zoom:80%;" />
 
 4) Enter the peak to peak measurment, into the document here: https://docs.google.com/spreadsheets/d/1vnIXAw5A0ayoq_EFUgS8qki22nJuo8gVn8SWhKNcVW4/edit?usp=sharing
 under the "pattern wave length" field, along with your chosen layer height and line width.
