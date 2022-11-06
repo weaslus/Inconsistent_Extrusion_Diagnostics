@@ -7,8 +7,6 @@ This tool aims to help diagnose the source of the issue. I'll leave the theory t
 1) Please download this tower by Mihai Designs:
 https://mihaidesigns.com/pages/inconsistent-extrusion-test
 
-It is important you print this in vase mode above all else. Wide and tall extrusions are recommended, however, without vase mode, this print tells us nothing.
-
 2) Slicer settings: Above all else, this needs to be printed in vase mode. Or spiralise outer contour, with no infil, and 1 wall. 
 Wide layer lines and tall layer heights are still recommended as per the original instructions, 0.3 LH and 0.5 LW work well.
 
