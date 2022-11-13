@@ -34,12 +34,13 @@ Given the comparison, with any luck, you now know which gear, or interaction, is
 
 # Large Format
 
+<img src="Images/vertical1.jpg" alt="vertical_example" style= "zoom:10%;" />
 
-
- For a vertical banding, this indicates very large values between cycles of flow rates. I would suggest printing a simple cylinder in vase mode, of 30mm in diameter and 100-150mm tall. Take note of how much filament the slicer says this will use (volumetric). Make sure to turn off skirts for this value, and any bottom layers; we want a value for the vase portion only. Then you can turn those features back on to print.
+ For a vertical banding, this indicates very large values between cycles of flow rates. I would suggest printing a simple cylinder in vase mode, of 20mm in diameter and 100-150mm tall. Take note of how much filament the slicer says this will use (volumetric). Make sure to turn off skirts for this value, and any bottom layers; we want a value for the vase portion only. Then you can turn those features back on to print.
 
  Once printed. You can count the number of cycles. And you know the volumetric flow used to print the tower. Enter these in the appropriate boxes to the right of the spreadsheet and compare to the values below. Guessing at a fractional value, like 4.25 repeats, may increase accuracy.
 
+<img src="Images/verticalcylinder.png" alt="vertical_example" style= "zoom:10%;" />
 
 Currently only BMG gears are directly supported, but please contact me, Weaslus on the voron design or annex engineering discords, if you have other extruders and want help interpreting your results.
 
