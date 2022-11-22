@@ -10,13 +10,14 @@ Please do not think, after running this test, and a small adjustment, you will h
 1) Please download this tower by Mihai Designs:
 https://mihaidesigns.com/pages/inconsistent-extrusion-test
 
-2) Slicer settings: Above all else, this needs to be printed in vase mode. Or spiralise outer contour, with no infil, and 1 wall. 
-Wide layer lines and tall layer heights are still recommended as per the original instructions, 0.3 LH and 0.5 LW work well.
+2) Slicer settings: Above all else, this needs to be printed in vase mode. Or spiralise outer contour, with no infil, and 1 wall. 0.16 LH and 0.4 LW.
 
 Those using SuperSlicer: Please make sure to input the layer width value in the left column, not the right hand "line spacing" column.
 
 
-3) Once printed, you should be able to see some woodgrain, as per Mihai's example photos. We are interested in the length of the repeat of this grain effect. The easiest place to measure, would be tip to tip of the grains, as pictured. For increased accuracy, you may measure over multiple repeats of the pattern, if possible, and divide by the number of gaps you span. Accuracy is vital here. The difference between patters caused by your motor backlash, and your idler tension, is very small.
+3) Once printed, you should be able to see some woodgrain, as per Mihai's example photos. We are interested in the length of the repeat of this grain effect. The easiest place to measure, would be tip to tip of the grains, as pictured. 
+
+For increased accuracy: you may measure over multiple repeats of the pattern, if possible, and divide by the number of gaps you span. Accuracy is vital here. The difference between patters caused by your motor backlash, and your idler tension, is very small. This is also why i recommend a finer layer height and line width than Mihai. It will stretch the patterns and make them more distinct. Calipers are strongly recommended for this task.
 
 <img src="./Images/measure_example.png" alt="Measure this" style="zoom:80%;" />
 
