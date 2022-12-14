@@ -24,7 +24,7 @@ For increased accuracy: you may measure over multiple repeats of the pattern, if
 If you see a virtical band, and not woodgrain, proceed to #large format.
 
 
-4) Enter the peak to peak measurment, into the document here: https://docs.google.com/spreadsheets/d/1vnIXAw5A0ayoq_EFUgS8qki22nJuo8gVn8SWhKNcVW4/edit?usp=sharing
+4) Enter the peak to peak measurment, into the document here: [https://docs.google.com/spreadsheets/d/1vnIXAw5A0ayoq_EFUgS8qki22nJuo8gVn8SWhKNcVW4/template/preview](https://docs.google.com/spreadsheets/d/1vnIXAw5A0ayoq_EFUgS8qki22nJuo8gVn8SWhKNcVW4/template/preview)
 under the "pattern wave length" field, along with your chosen layer height and line width.
 For extra precision, please enter your rotation distance from your printer.cfg. This should already be calibrated to give you 100mm when you request 100mm.  See the klipper documents here for help calibrating:
 https://www.klipper3d.org/Rotation_Distance.html?h=rotation#calibrating-rotation_distance-on-extruders
