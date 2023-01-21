@@ -24,10 +24,9 @@ For increased accuracy: you may measure over multiple repeats of the pattern, if
 If you see a virtical band, and not woodgrain, proceed to #large format.
 
 
-4) Enter the peak to peak measurment, into the document here: [https://docs.google.com/spreadsheets/d/1vnIXAw5A0ayoq_EFUgS8qki22nJuo8gVn8SWhKNcVW4/template/preview](https://docs.google.com/spreadsheets/d/1vnIXAw5A0ayoq_EFUgS8qki22nJuo8gVn8SWhKNcVW4/template/preview)
+4) Enter the peak to peak measurment, into the document [here](https://docs.google.com/spreadsheets/d/1iBX4ItWAsnH7RxIQfogGv_I9tm8Rc8wFJSg-SmeD-WY/edit?usp=sharing)
 under the "pattern wave length" field, along with your chosen layer height, line width, and slicer used.
-Please enter your rotation distance from your printer.cfg. The accuracy of this value does not effect this test. If you are not using klipper, you can calculate this value from esteps, using the formula here.
-https://www.klipper3d.org/Rotation_Distance.html?h=rotation#calibrating-rotation_distance-on-extruders
+Please enter your rotation distance from your printer.cfg. The accuracy of this value does not effect this test. If you are not using klipper, you can calculate this value from esteps, using the formula [found in klipper docs.](https://www.klipper3d.org/Rotation_Distance.html?h=rotation#calibrating-rotation_distance-on-extruders)
 
 
 5) The value created in red, should be a close match to one of the values in the tables below.
